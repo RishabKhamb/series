@@ -1,0 +1,9 @@
+.box {
+  box-shadow: 0.5px 10px 10px 5px #aaaaaa;
+  padding: 12px 14px;
+  border-radius: 12px 12px;
+}
+
+.cent {
+  margin-top: 32vh;
+}

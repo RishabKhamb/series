@@ -1,0 +1,12 @@
+.mybox {
+  box-shadow: 0.5px 10px 10px 5px #aaaaaa;
+  padding: 12px 14px;
+  border-radius: 12px 12px;
+  height: 40vh;
+}
+
+a:hover {
+  overflow: auto;
+  border-radius: 12px;
+  border: 1px solid white;
+}
